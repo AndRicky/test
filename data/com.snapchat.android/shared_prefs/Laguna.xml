@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="LAGUNA_USER_ID">a5c68b08209b4ed48e3030fe4ab3c3b6</string>
+    <string name="BLUETOOTH_CLASSIC_UUID">99037A7CE3B74DBC80AFD3AF027C74C2</string>
+    <string name="EVER_CONNECTED_DEVICES">AQBqYXZhLnV0aWwuQXJyYXlMaXP0AQA=</string>
+    <boolean name="USER_LOGGED_IN" value="true" />
+    <boolean name="IS_ALPHA_MODE" value="false" />
+</map>

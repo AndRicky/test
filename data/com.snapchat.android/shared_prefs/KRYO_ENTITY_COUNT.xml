@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="SUGGESTED_FRIENDS" value="-1" />
+    <int name="PROFILE_PICTURE_METADATA" value="-1" />
+    <int name="SUGGESTED_FRIENDS_DISPLAY" value="-1" />
+    <int name="FRIENDS_WHO_ADDED_ME" value="-1" />
+    <int name="CONTACTS_ON_SNAPCHAT" value="-1" />
+    <int name="FRIENDS" value="-1" />
+    <int name="CONTACTS_NOT_ON_SNAPCHAT" value="-1" />
+</map>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="snap_tag_image">qr-add/1cc78a62a28b9c4d622871a47527473f</string>
+    <boolean name="is_cold_start" value="false" />
+    <int name="suggested_friend_fetch_threshold" value="12" />
+    <int name="max_suggestions_in_quick_add" value="30" />
+    <long name="last_checked_trophycase_timestamp" value="1497980456915" />
+    <boolean name="identity_is_email_verified" value="true" />
+    <boolean name="is_two_fa_enabled" value="false" />
+    <boolean name="is_otp_two_fa_enabled" value="false" />
+    <boolean name="identity_is_phone_password_confirmed" value="true" />
+    <string name="friends_sync_token">231</string>
+    <boolean name="has_seen_new_friend_request_onboarding_message" value="true" />
+    <boolean name="has_profile_images" value="false" />
+    <long name="suggestion_prompt_duration_in_millis" value="0" />
+    <string name="suggested_friend_find_timestamps">1503159643218</string>
+    <int name="max_suggestions_in_search_result" value="30" />
+    <boolean name="is_high_accuracy_required_for_nearby" value="true" />
+    <boolean name="user_searchable_by_phone_number_enabled" value="true" />
+    <boolean name="tos_version_5_accepted" value="true" />
+    <boolean name="has_seen_profile_pictures_onboarding_message" value="true" />
+    <boolean name="should_show_suggestion_prompt" value="false" />
+    <long name="suggested_friend_sync_version_v2" value="430" />
+    <boolean name="HAS_STARTED_REGISTRATION_FLOW_FOR_CURRENT_APP_VERSION_CODE" value="false" />
+    <long name="last_permission_report_timestamp" value="1503156052169" />
+    <boolean name="is_add_nearby_enabled" value="true" />
+</map>

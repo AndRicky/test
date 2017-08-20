@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="sessionIDSetting" value="1" />
+    <string name="hashedDeviceID">7b5d0f97-987f-36c8-a658-c23d10307b9e</string>
+    <string name="rateAppSettings">{&quot;remindAfterNumLoads&quot;:5,&quot;numAppLoads&quot;:1,&quot;rateAppTitle&quot;:&quot;Rate My App&quot;,&quot;rateAppMessage&quot;:&quot;Would you mind taking a second to rate my app?  I would really appreciate it!&quot;,&quot;rateMyAppEnabled&quot;:false,&quot;rateAfterNumLoads&quot;:5,&quot;hasRatedApp&quot;:false}</string>
+    <boolean name="crashedOnLastLoad" value="false" />
+</map>

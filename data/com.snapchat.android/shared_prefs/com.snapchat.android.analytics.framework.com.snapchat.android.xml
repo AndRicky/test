@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="com.snapchat.android.analytics.framework.sessionId">d80b3712-af22-4327-8523-39e39bdc3285</string>
+    <long name="com.snapchat.android.analytics.framework.endSessionRelativeTs" value="88637" />
+    <long name="com.snapchat.android.analytics.framework.previousEndSessionId" value="123" />
+    <long name="com.snapchat.android.analytics.framework.timeActive" value="11" />
+    <long name="com.snapchat.android.analytics.framework.endSessionTs" value="1497816602755" />
+    <long name="com.snapchat.android.analytics.framework.startSessionTs" value="1497816590260" />
+    <long name="com.snapchat.android.analytics.framework.seqNum" value="35" />
+    <long name="com.snapchat.android.analytics.framework.startSessionRelativeTs" value="77934" />
+    <boolean name="com.snapchat.android.analytics.framework.sessionIsBeingClosed" value="true" />
+    <long name="com.snapchat.android.analytics.framework.endSessionAbsoluteTs" value="1503159942023" />
+</map>
